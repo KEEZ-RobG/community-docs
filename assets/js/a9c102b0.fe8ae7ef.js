@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcommunity_docs=self.webpackChunkcommunity_docs||[]).push([[8248],{20:o=>{o.exports=JSON.parse('{"permalink":"/community-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
