@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com',
-  baseUrl: '/community-docs/',
+  url: 'https://docs.luksoverse.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  deploymentBranch: "gh-pages"
+  deploymentBranch: "gh-pages",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
